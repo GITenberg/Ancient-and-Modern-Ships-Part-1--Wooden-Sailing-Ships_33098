@@ -1,0 +1,29 @@
+_repo: Ancient-and-Modern-Ships-Part-1--Wooden-Sailing-Ships_33098
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holmes, George Charles Vincent, Sir
+    alias: Holmes, George C. V. (George Charles Vincent), Sir
+    birthdate: 1848
+    deathdate: 1926
+    gutenberg_agent_id: '36202'
+    url: http://www.gutenberg.org/2009/agents/36202
+description: ''
+gutenberg_issued: '2010-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33098'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ships -- History'
+- !lcsh 'Sailing ships -- History'
+- !lcc 'VM'
+- !lcsh 'Shipbuilding -- History'
+title: 'Ancient and Modern Ships, Part 1: Wooden Sailing Ships'
+url: http://www.gutenberg.org/ebooks/33098
